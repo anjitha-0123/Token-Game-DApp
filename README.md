@@ -20,5 +20,7 @@ A simple Ethereum-based decentralized application (DApp) that connects with Meta
 
 1. **Clone the repository**
    ```
+   git@github.com:anjitha-0123/Token-Game-DApp.git
+   ```
    
 
